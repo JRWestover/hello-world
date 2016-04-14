@@ -1,2 +1,4 @@
 # hello-world
-This is going to be my intro repository as I learn Data Science
+
+I am learning Data Science because it leads to machine learning. Machine learning will lead to AI which in turn will allow me to help programs to learn from humans and to accomplish tasks that we don't even know we need done. 
+
